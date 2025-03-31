@@ -9,7 +9,6 @@ A **C++ project** for managing hotel bookings, rooms, and guests.
 
 ## Technologies Used
 - C++ 
-- File Handling
 
 ## How to Run
 1. Compile the code using `g++ main.cpp -o hotel`
